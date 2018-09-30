@@ -1,1 +1,1 @@
-"# blur-bg-landingpage" 
+# blur-bg-landingpage
